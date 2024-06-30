@@ -20,3 +20,10 @@ My resume showcases my experience, skills, and achievements in web development. 
 <li>Email: sastanoobie2@gmail.com</li>
 <li>Phone: 8800360161</li>
 </ul>
+
+<h3>Technical Skills</h3>
+<ul>
+<li>Languages: JavaScript, HTML5, CSS3</li>
+<li>Databases: MySQL</li>
+<li>Tools: Git, VS Code</li>
+</ul>
